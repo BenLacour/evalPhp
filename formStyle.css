@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  height: 100vh;
+  background: url("https://www.laforet.com/media/cache/storage/media/811/immobilier-fondaudege.jpg?method=max&size=large");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  text-align: center;
+}
+
+main {
+  width: 70%;
+  margin: 4rem auto 2rem auto;
+  border: solid 0.2rem grey;
+  border-radius: 20px;
+  background-color: rgba(105, 105, 105, 0.5);
+  padding: 2rem;
+  text-align: left;
+}
+
+textarea {
+  width: 100%;
+  resize: none;
+}
+
+button {
+  width: 100%;
+  margin: auto;
+}
+
+h1 {
+  margin-top: 1rem;
+}

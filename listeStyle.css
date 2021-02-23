@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  background-color: rgb(122, 90, 90);
+  color: white !important;
+}
+
+a {
+  color: rgb(247, 247, 247);
+}
+
+a:hover {
+  color: rgb(4, 153, 4);
+}
+
+img {
+  max-width: 20rem;
+}
